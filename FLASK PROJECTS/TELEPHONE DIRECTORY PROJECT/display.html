@@ -1,0 +1,24 @@
+{% extends 'index.html'%}
+{% block content %}
+<head>
+  <h1><center> DISPLAY CONTACTS</CENTER></h1>
+</head>
+
+<center><br><br><br>
+<table border="2" style="width:700px; border: 2px solid black">
+   <tr>
+     <th>ID</th>
+     <th>NAME</th>
+     <th>PHONE NUMBER</th>
+   </tr>
+{% for i in items %}
+
+   <tr>
+     <td> {{ i.id }} </td>
+     <td> {{ i.name }} </td>
+     <td> {{ i.phone }} </td>
+   </tr>
+{% endfor %}
+</table></center>
+
+{% endblock %}

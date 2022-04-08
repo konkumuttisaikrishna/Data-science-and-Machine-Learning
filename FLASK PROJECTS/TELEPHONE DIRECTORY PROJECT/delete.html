@@ -1,0 +1,12 @@
+{% extends 'index.html' %}
+{% block content%}
+<form action="{{ url_for('delete') }}" method="post">
+    <br>
+    <center>
+    <h2>Delete Contacts</h2>
+    <br>
+    <input type="name" name="input1">
+    <input type="submit" value="Delete">
+    </center>
+</form>
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends 'index.html'%}
+{% block content %}
+<form action="{{ url_for('search') }}" method="post">
+    <br>
+    <center>
+    <h2>Search Contacts</h2>
+    <br>
+    <input type="name" name="input">
+    <input type="submit" value="Search">
+  </center>
+</form>
+<br>
+<br>
+<br>
+<center>
+<table class=" table table-borderles table table-success table-striped ">
+{% for i in search1 %}
+<tr>
+<td style="width:100px">
+    {{ i.id }} | {{ i.name }} | {{i.phone }}
+</td>
+</tr>
+{% endfor %}
+</table>
+</center>
+
+
+{% endblock %}
