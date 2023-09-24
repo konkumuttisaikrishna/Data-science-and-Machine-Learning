@@ -1,0 +1,1000 @@
+id,title
+1,Self-Organization of Associative Database and Its Applications
+10,A Mean Field Theory of Layer IV of Visual Cortex and Its Application to Artificial Neural Networks
+100,Storing Covariance by the Associative Long-Term Potentiation and Depression of Synaptic Strengths in the Hippocampus
+1000,Bayesian Query Construction for Neural Network Models
+1001,Neural Network Ensembles  Cross Validation  and Active Learning
+1002,Using a neural net to instantiate a deformable model
+1003,Plasticity-Mediated Competitive Learning
+1004,ICEG Morphology Classification using an Analogue VLSI Neural Network
+1005,Real-Time Control of a Tokamak Plasma Using Neural Networks
+1006,Pulsestream Synapses with Non-Volatile Analogue Amorphous-Silicon Memories
+1007,Learning to Play the Game of Chess
+1008,Multidimensional Scaling and Data Clustering
+1009,An experimental comparison of recurrent neural networks
+101,Training Multilayer Perceptrons with the Extended Kalman Algorithm
+1010,Interference in Learning Internal Models of Inverse Dynamics in Humans
+1011,Active Learning with Statistical Models
+1012,A Rapid Graph-based Method for Arbitrary Transformation-Invariant Pattern Classification
+1013,Ocular Dominance and Patterned Lateral Connections in a Self-Organizing Model of the Primary Visual Cortex
+1014,Associative Decorrelation Dynamics: A Theory of Self-Organization and Optimization in Feedback Networks
+1015,A Connectionist Technique for Accelerated Textual Input: Letting a Network Do the Typing
+1016,Connectionist Speaker Normalization with Generalized Resource Allocating Networks
+1017,A Critical Comparison of Models for Orientation and Ocular Dominance Columns in the Striate Cortex
+1018,Generalization in Reinforcement Learning: Safely Approximating the Value Function
+1019,A Mixture Model System for Medical and Machine Diagnosis
+102,An Application of the Principle of Maximum Information Preservation to Linear Systems
+1020,A Computational Model of Prefrontal Cortex Function
+1021,The Gamma MLP for Speech Phoneme Recognition
+1022,A Multiscale Attentional Framework for Relaxation Neural Networks
+1023,Correlated Neuronal Response: Time Scales and Mechanisms
+1024,Onset-based Sound Segmentation
+1025,A model of transparent motion and non-transparent motion aftereffects
+1026,A Model of Auditory Streaming
+1027,REMAP: Recursive Estimation and Maximization of A Posteriori Probabilities - Application to Transition-Based Connectionist Speech Recognition
+1028,Exponentially many local minima for single neurons
+1029,A Practical Monte Carlo Implementation of Bayesian Learning
+103,An Adaptive Network That Learns Sequences of Transitions
+1030,Neuron-MOS Temporal Winner Search Hardware for Fully-Parallel Data Processing
+1031,Dynamics of Attention as Near Saddle-Node Bifurcation Behavior
+1032,VLSI Model of Primate Visual Smooth Pursuit
+1033,Gradient and Hamiltonian Dynamics Applied to Learning in Neural Networks
+1034,Is Learning The n-th Thing Any Easier Than Learning The First?
+1035,A Dynamical Model of Context Dependencies for the Vestibulo-Ocular Reflex
+1036,Improved Gaussian Mixture Density Estimates Using Bayesian Penalty Terms and Network Averaging
+1037,Quadratic-Type Lyapunov Functions for Competitive Neural Networks with Different Time-Scales
+1038,Stable LInear Approximations to Dynamic Programming for Stochastic Control Problems with Local Transitions
+1039,Context-Dependent Classes in a Hybrid Recurrent Network-HMM Speech Recognition System
+104,Digital Realisation of Self-Organising Maps
+1040,Empirical Entropy Manipulation for Real-World Problems
+1041,The Geometry of Eye Rotations and Listing's Law
+1042,Reinforcement Learning by Probability Matching
+1043,Neural Control for Nonlinear Dynamic Systems
+1044,Learning with ensembles: How overfitting can be useful
+1045,SEEMORE: A View-Based Approach to 3-D Object Recognition Using Multiple Visual Cues
+1046,Analog VLSI Processor Implementing the Continuous Wavelet Transform
+1047,Selective Attention for Handwritten Digit Recognition
+1048,Gaussian Processes for Regression
+1049,Modern Analytic Techniques to Solve the Dynamics of Recurrent Neural Networks
+105,Backpropagation and Its Application to Handwritten Signature Verification
+1050,Family Discovery
+1051,Neural Networks with Quadratic VC Dimension
+1052,Learning the Structure of Similarity
+1053,Reorganisation of Somatosensory Cortex after Tactile Training
+1054,Implementation Issues in the Fourier Transform Algorithm
+1055,Adaptive Retina with Center-Surround Receptive Field
+1056,Forward-backward retraining of recurrent neural networks
+1057,When is an Integrate-and-fire Neuron like a Poisson Neuron?
+1058,From Isolation to Cooperation: An Alternative View of a System of Experts
+1059,Boosting Decision Trees
+106,Constraints on Adaptive Networks for Modeling Human Generalization
+1060,Statistical Theory of Overtraining - Is Cross-Validation Asymptotically Effective?
+1061,Stable Dynamic Parameter Adaption
+1062,Universal Approximation and Learning of Trajectories Using Oscillators
+1063,Learning Fine Motion by Markov Mixtures of Experts
+1064,Estimating the Bayes Risk from Sample Data
+1065,A Unified Learning Scheme: Bayesian-Kullback Ying-Yang Machine
+1066,On Neural Networks with Minimal Weights
+1067,SPERT-II: A Vector Microprocessor System and its Application to Large Problems in Backpropagation Training
+1068,A Neural Network Model of 3-D Lightness Perception
+1069,How Perception Guides Production in Birdsong Learning
+107,Neural Network Recognizer for Hand-Written Zip Code Digits
+1070,A Bound on the Error of Cross Validation Using the Approximation and Estimation Rates  with Consequences for the Training-Test Split
+1071,A Model of Spatial Representations in Parietal Cortex Explains Hemineglect
+1072,Dynamics of On-Line Gradient Descent Learning for Multilayer Neural Networks
+1073,Improving Elevator Performance Using Reinforcement Learning
+1074,Visual gesture-based robot guidance with a modular neural system
+1075,Improving Committee Diagnosis with Resampling Techniques
+1076,Learning Sparse Perceptrons
+1077,A Neural Network Autoassociator for Induction Motor Failure Prediction
+1078,Modeling Interactions of the Rat's Place and Head Direction Systems
+1079,Active Gesture Recognition using Learned Visual Attention
+108,Neural Networks for Model Matching and Perceptual Organization
+1080,Symplectic Nonlinear Component Analysis
+1081,"Using the Future to ""Sort Out"" the Present: Rankprop and Multitask Learning for Medical Risk Evaluation"
+1082,Prediction of Beta Sheets in Proteins
+1083,Unsupervised Pixel-prediction
+1084,High-Speed Airborne Particle Monitoring Using Artificial Neural Networks
+1085,High-Performance Job-Shop Scheduling With A Time-Delay TD(?) Network
+1086,Examples of learning curves from a modified VC-formalism
+1087,Using Feedforward Neural Networks to Monitor Alertness from Changes in EEG Correlation and Coherence
+1088,Softassign versus Softmax: Benchmarks in Combinatorial Optimization
+1089,Beating a Defender in Robotic Soccer: Memory-Based Learning of a Continuous Function
+109,Applications of Error Back-Propagation to Phonetic Classification
+1090,Absence of Cycles in Symmetric Neural Networks
+1091,Independent Component Analysis of Electroencephalographic Data
+1092,Clustering data through an analogy to the Potts model
+1094,Plasticity of Center-Surround Opponent Receptive Fields in Real and Artificial Neural Systems of Vision
+1095,Worst-case Loss Bounds for Single Neurons
+1096,Predictive Q-Routing: A Memory-based Reinforcement Learning Approach to Adaptive Traffic Control
+1097,Using Unlabeled Data for Supervised Learning
+1098,Discovering Structure in Continuous Variables Using Bayesian Networks
+1099,Adaptive Mixture of Probabilistic Transducers
+11,Microelectronic Implementations of Connectionist Neural Networks
+110,Adaptive Neural Networks Using MOS Charge Storage
+1100,Tempering Backpropagation Networks: Not All Weights are Created Equal
+1101,Finite State Automata that Recurrent Cascade-Correlation Cannot Represent
+1102,Hierarchical Recurrent Neural Networks for Long-Term Dependencies
+1103,Optimizing Cortical Mappings
+1104,KODAK lMAGELINK? OCR Alphanumeric Handprint Module
+1105,Cholinergic suppression of transmission may allow combined associative memory function and self-organization in the neocortex
+1106,Handwritten Word Recognition using Contextual Hybrid Radial Basis Function Network/Hidden Markov Models
+1107,Human Reading and the Curse of Dimensionality
+1108,Sample Complexity for Learning Recurrent Perceptron Mappings
+1109,Generalization in Reinforcement Learning: Successful Examples Using Sparse Coarse Coding
+111,Dynamics of Analog Neural Networks with Time Delay
+1111,Fast Learning by Bounding Likelihoods in Sigmoid Type Belief Networks
+1112,Learning Model Bias
+1113,Generalized Learning Vector Quantization
+1114,Stock Selection via Nonlinear Multi-Factor Models
+1115,A New Learning Algorithm for Blind Signal Separation
+1116,Classifying Facial Action
+1117,Parallel Optimization of Motion Controllers via Policy Iteration
+1118,A Framework for Non-rigid Matching and Correspondence
+1119,A Smoothing Regularizer for Recurrent Neural Networks
+112,Cricket Wind Detection
+1120,Optimization Principles for the Neural Code
+1121,Optimal Asset Allocation using Adaptive Dynamic Programming
+1122,Recursive Estimation of Dynamic Modular RBF Networks
+1123,Silicon Models for Auditory Scene Analysis
+1124,Memory-based Stochastic Optimization
+1125,Parallel analog VLSI architectures for computation of heading direction and time-to-contact
+1126,Recurrent Neural Networks for Missing or Asynchronous Data
+1127,A Realizable Learning Task which Exhibits Overfitting
+1128,Modeling Saccadic Targeting in Visual Search
+1129,Simulation of a Thalamocortical Circuit for Computing Directional Heading in the Rat
+113,Use of Multi-Layered Networks for Coding Speech with Phonetic Features
+1130,Some results on convergent unlearning algorithm
+1131,Discriminant Adaptive Nearest Neighbor Classification and Regression
+1132,EM Optimization of Latent-Variable Density Models
+1133,Stable Fitted Reinforcement Learning
+1134,Competence Acquisition in an Autonomous Mobile Robot using Hardware Neural Techniques
+1135,Information through a Spiking Neuron
+1136,The Capacity of a Bump
+1138,A Dynamical Systems Approach for a Learnable Autonomous Robot
+1139,Rapid Quality Estimation of Neural Network Input Representations
+114,Implications of Recursive Distributed Representations
+1140,Active Learning in Multilayer Perceptrons
+1141,Investment Learning with Hierarchical PSOMs
+1142,Explorations with the Dynamic Wave Model
+1143,Improving Policies without Measuring Merits
+1144,Factorial Hidden Markov Models
+1145,A Predictive Switching Model of Cerebellar Movement Control
+1146,The Role of Activity in Synaptic Competition at the Neuromuscular Junction
+1147,Geometry of Early Stopping in Linear Networks
+1148,Strong Unimodality and Exact Learning of Constant Depth ?-Perceptron Networks
+1149,Laterally Interconnected Self-Organizing Maps in Hand-Written Digit Recognition
+115,Heterogeneous Neural Networks for Adaptive Behavior in Dynamic Environments
+1150,Primitive Manipulation Learning with Connectionism
+1151,Learning long-term dependencies is not as difficult with NARX networks
+1152,Extracting Tree-Structured Representations of Trained Networks
+1153,Does the Wake-sleep Algorithm Produce Good Density Estimators?
+1154,"Control of Selective Visual Attention: Modeling the ""Where"" Pathway"
+1155,Exploiting Tractable Substructures in Intractable Networks
+1156,Adaptive Back-Propagation in On-Line Learning of Multilayer Networks
+1157,Temporal coding in the sub-millisecond range: Model of barn owl auditory pathway
+1158,On the Computational Power of Noisy Spiking Neurons
+1159,A Novel Channel Selection System in Cochlear Implants Using Artificial Neural Network
+116,Convergence and Pattern-Stabilization in the Boltzmann Machine
+1160,Harmony Networks Do Not Work
+1161,An Information-theoretic Learning Algorithm for Neural Network Classification
+1162,Experiments with Neural Networks for Real Time Implementation of Control
+1163,Generalisation of A Class of Continuous Neural Networks
+1164,Learning to Predict Visibility and Invisibility from Occlusion Events
+1165,Constructive Algorithms for Hierarchical Mixtures of Experts
+1166,Model Matching and SFMD Computation
+1167,Bayesian Methods for Mixtures of Experts
+1168,Human Face Detection in Visual Scenes
+1169,Temporal Difference Learning in Continuous Time and Space
+1170,A Neural Network Classifier for the I100 OCR Chip
+1171,Using Pairs of Data-Points to Define Splits for Decision Trees
+1172,Stochastic Hillclimbing as a Baseline Method for Evaluating Genetic Algorithms
+1173,Improved Silicon Cochlea using Compatible Lateral Bipolar Transistors
+1174,Pruning with generalization based weight saliencies: ?OBD  ?OBS
+1175,Generating Accurate and Diverse Members of a Neural-Network Ensemble
+1176,Statistical Mechanics of the Mixture of Experts
+1177,Microscopic Equations in Rough Energy Landscape for Neural Networks
+1178,An Architectural Mechanism for Direction-tuned Cortical Simple Cells: The Role of Mutual Inhibition
+1179,Maximum Likelihood Blind Source Separation: A Context-Sensitive Generalization of ICA
+118,Learning by Choice of Internal Representations
+1180,Representing Face Images for Emotion Classification
+1181,Early Brain Damage
+1182,Balancing Between Bagging and Bumping
+1183,Adaptive On-line Learning in Changing Environments
+1184,Radial Basis Function Networks and Complexity Regularization in Function Learning
+1185,Learning Decision Theoretic Utilities through Reinforcement Learning
+1186,Text-Based Information Retrieval Using Exponentiated Gradient Descent
+1187,Support Vector Method for Function Approximation  Regression Estimation and Signal Processing
+1188,Spatiotemporal Coupling and Scaling of Natural Images and Human Visual Sensitivities
+1189,Second-order Learning Algorithm with Squared Penalty Term
+119,Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment
+1190,Source Separation and Density Estimation by Faithful Equivariant SOM
+1191,Regression with Input-Dependent Noise: A Bayesian Treatment
+1192,Bangs  Clicks  Snaps  Thuds and Whacks: An Architecture for Acoustic Transient Processing
+1193,A New Approach to Hybrid HMM/ANN Speech Recognition using Mutual Information Neural Networks
+1194,An Apobayesian Relative of Winnow
+1195,Hebb Learning of Features based on their Information Content
+1196,Competition Among Networks Improves Committee Performance
+1197,Computing with Infinite Networks
+1198,ARC-LH: A New Adaptive Resampling Algorithm for Improving ANN Classifiers
+1199,Neural Network Models of Chemotaxis in the Nematode Caenorhabditis Elegans
+12,Using Neural Networks to Improve Cochlear Implant Speech Perception
+120,A Model of Neural Oscillator for a Unified Submodule
+1200,Visual Cortex Circuitry and Orientation Tuning
+1201,Combining Neural Network Regression Estimates with Regularized Linear Weights
+1202,Dual Kalman Filtering Methods for Nonlinear Prediction  Smoothing and Estimation
+1203,Time Series Prediction using Mixtures of Experts
+1204,For Valid Generalization the Size of the Weights is More Important than the Size of the Network
+1205,An Adaptive WTA using Floating Gate Technology
+1206,A Micropower Analog VLSI HMM State Decoder for Wordspotting
+1207,GTM: A Principled Alternative to the Self-Organizing Map
+1208,A Mixture of Experts Classifier with Learning Based on Both Labelled and Unlabelled Data
+1209,Complex-Cell Responses Derived from Center-Surround Inputs: The Surprising Power of Intradendritic Computation
+121,Learning the Solution to the Aperture Problem for Pattern Motion with a Hebb Rule
+1210,Self-Organizing and Adaptive Algorithms for Generalized Eigen-Decomposition
+1211,Learning Bayesian Belief Networks with Neural Network Estimators
+1212,Selective Integration: A Model for Disparity Estimation
+1213,On the Effect of Analog Noise in Discrete-Time Analog Computations
+1214,A Convergence Proof for the Softassign Quadratic Assignment Algorithm
+1215,LSTM can Solve Hard Long Time Lag Problems
+1216,Reinforcement Learning for Dynamic Channel Allocation in Cellular Telephone Systems
+1217,Clustering Sequences with Hidden Markov Models
+1218,On a Modification to the Mean Field EM Algorithm in Factorial Learning
+1219,MLP Can Provably Generalize Much Better than VC-bounds Indicate
+122,GEMINI: Gradient Estimation Through Matrix Inversion After Noise Injection
+1220,The Generalisation Cost of RAMnets
+1221,Multi-Task Learning for Stock Selection
+1222,Extraction of Temporal Features in the Electrosensory System of Weakly Electric Fish
+1223,Learning Appearance Based Models: Mixtures of Second Moment Experts
+1224,Learning from Demonstration
+1225,Dynamics of Training
+1226,Viewpoint Invariant Face Recognition using Independent Component Analysis and Attractor Networks
+1227,Using Curvature Information for Fast Stochastic Search
+1228,Efficient Nonlinear Control with Actor-Tutor Architecture
+1229,Multidimensional Triangulation and Interpolation for Reinforcement Learning
+123,Linear Learning: Landscapes and Algorithms
+1230,Local Bandit Approximation for Optimal Learning Problems
+1231,Promoting Poor Features to Supervisors: Some Inputs Work Better as Outputs
+1232,Gaussian Processes for Bayesian Classification via Hybrid Monte Carlo
+1233,Fast Network Pruning and Feature Extraction by using the Unit-OBS Algorithm
+1234,A Constructive Learning Algorithm for Discriminant Tangent Models
+1235,Blind Separation of Delayed and Convolved Sources
+1236,Neural Models for Part-Whole Hierarchies
+1238,Support Vector Regression Machines
+1239,Multilayer Neural Networks: One or Two Hidden Layers?
+124,Models of Ocular Dominance Column Formation: Analytical and Computational Results
+1240,Predicting Lifetimes in Dynamically Allocated Memory
+1241,Ordered Classes and Incomplete Examples in Classification
+1242,Unsupervised Learning by Convex and Conic Coding
+1243,Learning with Noise and Regularizers in Multilayer Neural Networks
+1244,A Neural Model of Visual Contour Integration
+1245,Sequential Tracking in Pricing Financial Options using Model Based and Neural Network Approaches
+1247,Genetic Algorithms and Explicit Search Statistics
+1248,Neural Learning in Structured Parameter Spaces - Natural Riemannian Gradient
+1249,An Analog Implementation of the Constant Average Statistics Constraint For Sensor Calibration
+125,Training a 3-Node Neural Network is NP-Complete
+1250,Effective Training of a Neural Network Character Classifier for Word Recognition
+1251,Multi-effect Decompositions for Financial Data Modeling
+1252,A Comparison between Neural Networks and other Statistical Techniques for Modeling the Relationship between Tobacco and Alcohol and Cancer
+1253,Improving the Accuracy and Speed of Support Vector Machines
+1254,The Effect of Correlated Input Data on the Dynamics of Learning
+1255,A Model of Recurrent Interactions in Primary Visual Cortex
+1256,The Learning Dynamcis of a Universal Approximator
+1257,Removing Noise in On-Line Search using Adaptive Batch Sizes
+1258,A Constructive RBF Network for Writer Adaptation
+1259,Are Hopfield Networks Faster than Conventional Computers?
+126,Computer Modeling of Associative Learning
+1260,Clustering via Concave Minimization
+1261,Continuous Sigmoidal Belief Networks Trained using Slice Sampling
+1262,Temporal Low-Order Statistics of Natural Sounds
+1263,Training Algorithms for Hidden Markov Models using Entropy Based Distance Functions
+1264,Hidden Markov Decision Trees
+1265,A Silicon Model of Amplitude Modulation Detection in the Auditory Brainstem
+1266,Learning Temporally Persistent Hierarchical Representations
+1267,Adaptive Access Control Applied to Ethernet Data
+1268,A Mean Field Algorithm for Bayes Learning in Large Feed-forward Neural Networks
+1269,Analysis of Temporal-Diffference Learning with Function Approximation
+127,Optimization by Mean Field Annealing
+1270,Monotonicity Hints
+1271,Online Learning from Finite Training Sets: An Analytical Case Study
+1272,Bayesian Model Comparison by Monte Carlo Chaining
+1273,Multi-Grid Methods for Reinforcement Learning in Controlled Diffusion Processes
+1274,Learning Exact Patterns of Quasi-synchronization among Spiking Neurons from Data on Multi-unit Recordings
+1275,Representation and Induction of Finite State Machines using Time-Delay Neural Networks
+1276,Neural Network Modeling of Speech and Music Signals
+1277,A Hierarchical Model of Visual Rivalry
+1278,Reinforcement Learning for Mixed Open-loop and Closed-loop Control
+1279,Adaptively Growing Hierarchical Mixtures of Experts
+128,Electronic Receptors for Tactile/Haptic Sensing
+1280,Ensemble Methods for Phoneme Classification
+1281,Dynamically Adaptable CMOS Winner-Take-All Neural Network
+1282,Unification of Information Maximization and Minimization
+1283,A Variational Principle for Model-based Morphing
+1284,Analytical Mean Squared Error Curves in Temporal Difference Learning
+1285,Spectroscopic Detection of Cervical Pre-Cancer through Radial Basis Function Networks
+1286,Analog VLSI Circuits for Attention-Based  Visual Tracking
+1287,VLSI Implementation of Cortical Visual Motion Detection Using an Analog Neural Computer
+1288,Minimizing Statistical Bias with Queries
+1289,The CONDENSATION Algorithm - Conditional Density Propagation and Applications to Visual Tracking
+129,Scaling and Generalization in Neural Networks: A Case Study
+1290,Separating Style and Content
+1291,Contour Organisation with the EM Algorithm
+1292,Why did TD-Gammon Work?
+1293,Bayesian Unsupervised Learning of Higher Order Structure
+1294,Dynamic Features for Visual Speechreading: A Systematic Comparison
+1295,Limitations of Self-organizing Maps for Vector Quantization and Multidimensional Scaling
+1296,3D Object Recognition: A Model of View-Tuned Neurons
+1297,Approximate Solutions to Optimal Stopping Problems
+1298,488 Solutions to the XOR Problem
+1299,The Neurothermostat: Predictive Optimal Control of Residential Heating Systems
+13,Temporal Patterns of Activity in Neural Networks
+130,Statistical Prediction with Kanerva's Sparse Distributed Memory
+1301,Reconstructing Stimulus Velocity from Neuronal Responses in Area MT
+1302,On-line Policy Improvement using Monte-Carlo Search
+1303,Size of Multilayer Networks for Exact Learning: Analytic Approach
+1304,Spatial Decorrelation in Orientation Tuned Cortical Cells
+1305,Rapid Visual Processing using Spike Asynchrony
+1306,Practical Confidence and Prediction Intervals
+1307,Noisy Spiking Neurons with Temporal Coding have more Computational Power than Sigmoidal Neurons
+1308,Softening Discrete Relaxation
+1309,Interpreting Images by Propagating Bayesian Beliefs
+131,Modeling Small Oscillating Biological Networks in Analog VLSI
+1310,Salient Contour Extraction by Temporal Binding in a Cortically-based Network
+1311,Consistent Classification  Firm and Soft
+1312,Statistically Efficient Estimations Using Cortical Lateral Connections
+1313,Interpolating Earth-science Data using RBF Networks and Mixtures of Experts
+1314,Smoothing Regularizers for Projective Basis Function Networks
+1315,One-unit Learning Rules for Independent Component Analysis
+1316,Recursive Algorithms for Approximating Probabilities in Graphical Models
+1317,Exploiting Model Uncertainty Estimates for Safe Dynamic Control Learning
+1318,Triangulation by Continuous Embedding
+1319,Cholinergic Modulation Preserves Spike Timing Under Physiologically Realistic Fluctuating Input
+132,Theory of Self-Organization of Cortical Maps
+1320,An Orientation Selective Neural Network for Pattern Identification in Particle Detectors
+1321,Edges are the 'Independent Components' of Natural Scenes.
+1322,A Spike Based Learning Neuron in Analog VLSI
+1323,NeuroScale: Novel Topographic Feature Extraction using RBF Networks
+1324,Probabilistic Interpretation of Population Codes
+1325,Combinations of Weak Classifiers
+1326,Estimating Equivalent Kernels for Neural Networks: A Data Perturbation Approach
+1327,Compositionality  MDL Priors  and Object Recognition
+1328,MIMIC: Finding Optima by Estimating Probability Densities
+1329,ARTEX: A Self-organizing Architecture for Classifying Image Regions
+133,A Back-Propagation Algorithm with Optimal Use of Hidden Units
+1330,Orientation Contrast Sensitivity from Long-range Interactions in Visual Cortex
+1331,Recovering Perspective Pose with a Dual Step EM Algorithm
+1332,Mapping a Manifold of Perceptual Observations
+1333,The Efficiency and the Robustness of Natural Gradient Descent Learning Rule
+1334,Features as Sufficient Statistics
+1335,Training Methods for Adaptive Boosting of Neural Networks
+1336,Minimax and Hamiltonian Dynamics of Excitatory-Inhibitory Networks
+1337,Analog VLSI Model of Intersegmental Coordination with Nearest-Neighbor Coupling
+1338,Dynamic Stochastic Synapses as Computational Units
+1339,Modeling Acoustic Correlations by Factor Analysis
+134,Efficient Parallel Learning Algorithms for Neural Networks
+1340,Generalization in Decision Trees and DNF: Does Size Matter?
+1341,Nonlinear Markov Networks for Continuous Variables
+1342,Multiplicative Updating Rule for Blind Separation Derived from the Method of Scoring
+1343,Extended ICA Removes Artifacts from Electroencephalographic Recordings
+1344,Analytical Study of the Interplay between Architecture and Predictability
+1345,Multi-modular Associative Memory
+1346,A Framework for Multiple-Instance Learning
+1347,Incorporating Test Inputs into Learning
+1348,A Solution for Missing Data in Recurrent Neural Networks with an Application to Blood Glucose Prediction
+1349,Learning to Schedule Straight-Line Code
+135,A Connectionist Expert System that Actually Works
+1350,Analysis of Drifting Dynamics with Neural Network Hidden Markov Models
+1351,2D Observers for Human 3D Object Recognition?
+1352,A Simple and Fast Neural Network Approach to Stereovision
+1353,Stacked Density Estimation
+1354,Phase Transitions and the Perceptual Organization of Video Sequences
+1355,A Neural Network Model of Naive Preference and Filial Imprinting in the Domestic Chick
+1356,On Parallel versus Serial Processing: A Computational Study of Visual Search
+1357,The Canonical Distortion Measure in Feature Space and 1-NN Classification
+1358,Monotonic Networks
+1359,Data-Dependent Structural Risk Minimization for Perceptron Decision Trees
+136,Automatic Local Annealing
+1360,Silicon Retina with Adaptive Filtering Properties
+1361,Recurrent Neural Networks Can Learn to Implement Symbol-Sensitive Counting
+1362,Multi-time Models for Temporally Abstract Planning
+1363,Active Data Clustering
+1364,An Analog VLSI Neural Network for Phase-based Machine Vision
+1365,Toward a Single-Cell Account for Binocular Disparity Tuning: An Energy Model May Be Hiding in Your Dendrites
+1366,Blind Separation of Radio Signals in Fading Channels
+1367,An Analog VLSI Model of the Fly Elementary Motion Detector
+1368,Computing with Action Potentials
+1369,Learning Continuous Attractors in Recurrent Networks
+137,An Electronic Photoreceptor Sensitive to Small Changes in Intensity
+1370,MELONET I: Neural Nets for Inventing Baroque-Style Chorale Variations
+1371,Detection of First and Second Order Motion
+1372,From Regularization Operators to Support Vector Kernels
+1373,Globally Optimal On-line Learning Rules
+1374,Just One View: Invariances in Inferotemporal Cell Tuning
+1375,Classification by Pairwise Coupling
+1376,Agnostic Classification of Markovian Sequences
+1377,Bidirectional Retrieval from Associative Memory
+1378,Using Expectation to Guide Processing: A Study of Three Real-World Applications
+1379,Shared Context Probabilistic Transducers
+138,Modeling the Olfactory Bulb - Coupled Nonlinear Oscillators
+1380,Estimating Dependency Structure as a Hidden Variable
+1381,Hippocampal Model of Rat Spatial Abilities Using Temporal Difference Learning
+1382,Reinforcement Learning for Call Admission Control and Routing in Integrated Service Networks
+1383,The Asymptotic Convergence-Rate of Q-learning
+1384,Reinforcement Learning with Hierarchies of Machines
+1385,The Observer-Observation Dilemma in Neuro-Forecasting
+1386,Automated Aircraft Recovery via Reinforcement Learning: Initial Experiments
+1387,Local Dimensionality Reduction
+1388,On Efficient Heuristic Ranking of Hypotheses
+1389,Serial Order in Reading Aloud: Connectionist Models and Neighborhood Structure
+139,An Optimality Principle for Unsupervised Learning
+1390,On-line Learning from Finite Training Sets in Nonlinear Networks
+1391,Effects of Spike Timing Underlying Binocular Integration and Rivalry in a Neural Model of Early Visual Cortex
+1392,Approximating Posterior Distributions in Belief Networks Using Mixtures
+1393,Comparison of Human and Machine Word Recognition
+1394,Combining Classifiers Using Correspondence Analysis
+1395,A 1  000-Neuron System with One Million 7-bit Physical Interconnections
+1396,Multiple Threshold Neural Logic
+1397,Function Approximation with the Sweeping Hinge Algorithm
+1398,EM Algorithms for PCA and SPCA
+1399,Task and Spatial Frequency Effects on Face Specialization
+14,Encoding Geometric Invariances in Higher-Order Neural Networks
+140,Associative Learning via Inhibitory Search
+1400,Synchronized Auditory and Cognitive 40 Hz Attentional Streams  and the Impact of Rhythmic Expectation on Auditory Scene Analysis
+1401,Coding of Naturalistic Stimuli by Auditory Midbrain Neurons
+1402,The Rectified Gaussian Distribution
+1403,Modeling Complex Cells in an Awake Macaque during Natural Image Viewing
+1404,Reinforcement Learning for Continuous Stochastic Control Problems
+1405,Hybrid NN/HMM-Based Speech Recognition with a Discriminant Neural Feature Extraction
+1406,Bayesian Robustification for Audio Visual Fusion
+1407,Use of a Multi-Layer Perceptron to Predict Malignancy in Ovarian Tumors
+1408,New Approximations of Differential Entropy for Independent Component Analysis and Projection Pursuit
+1409,Generalized Prioritized Sweeping
+141,Speech Production Using A Neural Network with a Cooperative Learning Mechanism
+1410,A Mathematical Model of Axon Guidance by Diffusible Factors
+1411,Instabilities in Eye Movement Control: A Model of Periodic Alternating Nystagmus
+1412,Boltzmann Machine Learning Using Mean Field Theory and Linear Response Correction
+1413,Selecting Weighting Factors in Logarithmic Opinion Pools
+1414,Visual Navigation in a Robot Using Zig-Zag Behavior
+1415,A Hippocampal Model of Recognition Memory
+1416,Correlates of Attention in a Model of Dynamic Visual Recognition
+1417,S-Map: A Network with a Simple Self-Organization Algorithm for Generative Topographic Mappings
+1418,An Incremental Nearest Neighbor Algorithm with Queries
+1419,Competitive On-line Linear Regression
+142,Connectionist Learning of Expert Preferences by Comparison Training
+1420,How to Dynamically Merge Markov Decision Processes
+1421,Bayesian Model of Surface Perception
+1422,An Application of Reversible-Jump MCMC to Multivariate Spherical Gaussian Mixtures
+1423,Gradients for Retinotectal Mapping
+1424,Learning Nonlinear Overcomplete Representations for Efficient Coding
+1425,Experiences with Bayesian Learning in a Real World Application
+1426,RCC Cannot Compute Certain FSA  Even with Arbitrary Transfer Functions
+1427,Enhancing Q-Learning for Optimal Asset Allocation
+1429,Modelling Seasonality and Trends in Daily Rainfall Data
+143,Temporal Representations in a Connectionist Speech System
+1430,Perturbative M-Sequences for Auditory Systems Identification
+1431,Learning to Order Things
+1432,The Storage Capacity of a Fully-Connected Committee Machine
+1433,A Generic Approach for Identification of Event Related Brain Potentials via a Competitive Neural Network Structure
+1434,Hybrid Reinforcement Learning and Its Application to Biped Robot Control
+1435,Incorporating Contextual Information in White Blood Cell Identification
+1436,Ensemble and Modular Approaches for Face Detection: A Comparison
+1437,Wavelet Models for Video Time-Series
+1438,Learning Path Distributions Using Nonequilibrium Diffusion Networks
+1439,Neural Basis of Object-Centered Representations
+144,A Passive Shared Element Analog Electrical Cochlea
+1440,Two Approaches to Optimal Annealing
+1441,On the Infeasibility of Training Neural Networks with Small Squared Errors
+1442,Using Helmholtz Machines to Analyze Multi-channel Neuronal Recordings
+1443,An Annealed Self-Organizing Map for Source Channel Coding
+1444,Regression with Input-dependent Noise: A Gaussian Process Treatment
+1445,Structure Driven Image Database Retrieval
+1446,Factorizing Multivariate Function Classes
+1447,An Improved Policy Iteration Algorithm for Partially Observable MDPs
+1449,Adaptation in Speech Motor Control
+145,A Bifurcation Theory Approach to the Programming of Periodic Attractors in Network Models of Olfactory Cortex
+1450,A Non-Parametric Multi-Scale Statistical Model for Natural Images
+1452,Radial Basis Functions: A Bayesian Treatment
+1453,Asymptotic Theory for Regularization: One-Dimensional Linear Case
+1454,Graph Matching with Hierarchical Discrete Relaxation
+1455,A General Purpose Image Processing Chip: Orientation Detection
+1456,On the Separation of Signals from Neighboring Cells in Tetrode Recordings
+1457,Prior Knowledge in Support Vector Kernels
+1458,Receptive Field Formation in Natural Scene Environments: Comparison of Single Cell Learning Rules
+1459,Intrusion Detection with Neural Networks
+146,Performance of Synthetic Neural Network Classification of Noisy Radar Signals
+1460,Self-similarity Properties of Natural Images
+1461,Refractoriness and Neural Precision
+1462,Characterizing Neurons in the Primary Auditory Cortex of the Awake Primate Using Reverse Correlation
+1463,Statistical Models of Conditioning
+1464,Regularisation in Sequential Learning Algorithms
+1465,Adaptive Choice of Grid and Time in Reinforcement Learning
+1466,Independent Component Analysis for Identification of Artifacts in Magnetoencephalographic Recordings
+1467,A Revolution: Belief Propagation in Graphs with Cycles
+1468,Learning Human-like Knowledge by Singular Value Decomposition: A Progress Report
+1469,A Superadditive-Impairment Theory of Optic Aphasia
+147,A Network for Image Segmentation Using Color
+1470,Bach in a Box - Real-Time Harmony
+1471,A Model of Early Visual Processing
+1472,Hierarchical Non-linear Factor Analysis and Topographic Maps
+1473,Linear Concepts and Hidden Variables: An Empirical Study
+1474,Multiresolution Tangent Distance for Affine-invariant Classification
+1475,Structural Risk Minimization for Nonparametric Time Series Prediction
+1476,Nonparametric Model-Based Reinforcement Learning
+1477,Synaptic Transmission: An Information-Theoretic Perspective
+1478,Relative Loss Bounds for Multidimensional Regression Problems
+1479,Unsupervised On-line Learning of Decision Trees for Hierarchical Data Analysis
+148,Adaptive Neural Net Preprocessing for Signal Detection in Non-Gaussian Noise
+1480,Ensemble Learning for Multi-Layer Networks
+1481,The Error Coding and Substitution PaCTs
+1482,A Principle for Unsupervised Hierarchical Decomposition of Visual Scenes
+1483,The Bias-Variance Tradeoff and the Randomized GACV
+1484,Graph Matching for Shape Retrieval
+1485,Dynamically Adapting Kernels in Support Vector Machines
+1486,Evidence for a Forward Dynamics Model in Human Adaptive Motor Control
+1487,A Reinforcement Learning Algorithm in Partially Observable Environments Using Short-Term Memory
+1488,A Model for Associative Multiplication
+1489,A Neuromorphic Monaural Sound Localizer
+149,Self Organizing Neural Networks for the Identification Problem
+1490,Very Fast EM-Based Mixture Model Clustering Using Multiresolution Kd-Trees
+1491,Kernel PCA and De-Noising in Feature Spaces
+1492,Viewing Classifier Systems as Model Free Learning in POMDPs
+1493,Multi-Electrode Spike Sorting by Clustering Transfer Functions
+1494,Where Does the Population Vector of Motor Cortical Cells Point during Reaching Movements?
+1495,A High Performance k-NN Classifier Using a Binary Correlation Matrix Memory
+1496,Coordinate Transformation Learning of Hand Position Feedback Controller by Using Change of Position Error Norm
+1497,Finite-Dimensional Approximation of Gaussian Processes
+1498,Making Templates Rotationally Invariant. An Application to Rotated Digit Recognition
+1499,VLSI Implementation of Motion Centroid Localization for Autonomous Navigation
+15,Correlational Strength and Computational Algebra of Synaptic Connections Between Neurons
+150,An Information Theoretic Approach to Rule-Based Connectionist Expert Systems
+1500,Outcomes of the Equivalence of Adaptive Ridge with Least Absolute Shrinkage
+1501,Learning Curves for Gaussian Processes
+1502,Adding Constrained Discontinuities to Gaussian Process Models of Wind Fields
+1503,Learning from Dyadic Data
+1504,Example-Based Image Synthesis of Articulated Figures
+1505,Call-Based Fraud Detection in Mobile Communication Networks Using a Hierarchical Regime-Switching Model
+1506,Applications of Multi-Resolution Neural Networks to Mammography
+1507,Lazy Learning Meets the Recursive Least Squares Algorithm
+1508,Markov Processes on Curves for Automatic Speech Recognition
+1509,Experimental Results on Learning Stochastic Memoryless Policies for Partially Observable Markov Decision Processes
+151,Winner-Take-All Networks of O(N) Complexity
+1510,The Effect of Correlations on the Fisher Information of Population Codes
+1511,Learning Multi-Class Dynamics
+1512,Replicator Equations  Maximal Cliques  and Graph Isomorphism
+1513,Convergence Rates of Algorithms for Visual Search: Detecting Visual Contours
+1514,Coding Time-Varying Signals Using Sparse  Shift-Invariant Representations
+1515,Almost Linear VC Dimension Bounds for Piecewise Polynomial Networks
+1516,Probabilistic Image Sensor Fusion
+1517,On the Optimality of Incremental Neural Network Algorithms
+1518,Contrast Adaptation in Simple Cells by Changing the Transmitter Release Probability
+1519,Controlling the Complexity of HMM Systems by Regularization
+152,Simulation and Measurement of the Electric Fields Generated by Weakly Electric Fish
+1520,Exploiting Generative Models in Discriminative Classifiers
+1521,SMEM Algorithm for Mixture Models
+1522,An Entropic Estimator for Structure Discovery
+1523,Optimizing Classifers for Imbalanced Training Sets
+1525,Batch and On-Line Parameter Estimation of Gaussian Mixtures Based on the Joint Entropy
+1526,Recurrent Cortical Amplification Produces Complex Cell Responses
+1527,Facial Memory Is Kernel Density Estimation (Almost)
+1528,Orientation  Scale  and Discontinuity as Emergent Properties of Illusory Contour Shape
+1529,Stationarity and Stability of Autoregressive Neural Network Processes
+153,Range Image Restoration Using Mean Field Annealing
+1530,A Precise Characterization of the Class of Languages Recognized by Neural Nets under Gaussian and Other Common Noise Distributions
+1531,Finite-Sample Convergence Rates for Q-Learning and Indirect Algorithms
+1532,Mean Field Methods for Classification with Gaussian Processes
+1533,Modeling Surround Suppression in V1 Neurons with a Statistically Derived Normalization Model
+1534,Analog VLSI Cellular Implementation of the Boundary Contour System
+1535,DTs: Dynamic Trees
+1536,Divisive Normalization  Line Attractor Networks and Ideal Observers
+1537,Maximum Conditional Likelihood via Bound Maximization and the CEM Algorithm
+1538,Robot Docking Using Mixtures of Gaussians
+1539,Fisher Scoring and a Mixture of Modes Approach for Approximate Inference and Learning in Nonlinear State Space Models
+154,What Size Net Gives Valid Generalization?
+1540,General-Purpose Localization of Textured Image Regions
+1541,Active Noise Canceling Using Analog Neuro-Chip with On-Chip Learning Capability
+1542,Bayesian Modeling of Human Concept Learning
+1543,Learning Mixture Hierarchies
+1544,Exploratory Data Analysis Using Radial Basis Function Latent Variable Models
+1545,Independent Component Analysis of Intracellular Calcium Spike Data
+1546,Vertex Identification in High Energy Physics Experiments
+1547,Attentional Modulation of Human Pattern Discrimination Psychophysics Reproduced by a Quantitative Model
+1548,Familiarity Discrimination of Radar Pulses
+1549,Bayesian PCA
+155,An Analog Self-Organizing Neural Network Chip
+1550,Robust  Efficient  Globally-Optimized Reinforcement Learning with the Parti-Game Algorithm
+1551,Reinforcement Learning for Trading
+1552,Visualizing Group Structure
+1553,Direct Optimization of Margins Improves Generalization in Combined Classifiers
+1554,Neuronal Regulation Implements Efficient Synaptic Pruning
+1555,Computation of Smooth Optical Flow in a Feedback Connected Analog Network
+1556,Distributional Population Codes and Multiple Motion Models
+1557,Scheduling Straight-Line Code Using Reinforcement Learning and Rollouts
+1558,A Micropower CMOS Adaptive Amplitude and Shift Invariant Vector Quantiser
+1559,Computational Differences between Asymmetrical and Symmetrical Networks
+156,Comparing Biases for Minimal Network Construction with Back-Propagation
+1560,Graphical Models for Recognizing Human Interactions
+1561,Probabilistic Visualisation of High-Dimensional Binary Data
+1562,Fast Neural Network Emulation of Dynamical Systems for Computer Animation
+1563,Shrinking the Tube: A New Support Vector Regression Algorithm
+1564,Inference in Multilayer Networks via Large Deviation Bounds
+1565,Barycentric Interpolators for Continuous Space and Time Reinforcement Learning
+1567,Probabilistic Modeling for Face Orientation Discrimination: Learning from Labeled and Unlabeled Data
+1568,Blind Separation of Filtered Sources Using State-Space Approach
+1569,Discontinuous Recall Transitions Induced by Competition Between Short- and Long-Range Interactions in Recurrent Networks
+157,On the K-Winners-Take-All Network
+1570,The Belief in TAP
+1571,Classification on Pairwise Proximity Data
+1572,Information Maximization in Single Neurons
+1573,Learning Instance-Independent Value Functions to Enhance Local Search
+1574,Analyzing and Visualizing Single-Trial Event-Related Potentials
+1575,Semiparametric Support Vector and Linear Programming Machines
+1576,Gradient Descent for General Reinforcement Learning
+1577,Using Analytic QP and Sparseness to Speed Training of Support Vector Machines
+1578,Dynamics of Supervised Learning with Restricted Training Sets
+1579,Discovering Hidden Features with Gaussian Processes Regression
+158,Neural Networks that Learn to Discriminate Similar Kanji Characters
+1580,Learning a Continuous Hidden Variable Model for Binary Data
+1581,Classification in Non-Metric Spaces
+1582,Semi-Supervised Support Vector Machines
+1583,Risk Sensitive Reinforcement Learning
+1584,Learning Lie Groups for Invariant Visual Perception
+1585,Multiple Paired Forward-Inverse Models for Human Motor Learning and Control
+1586,Learning Macro-Actions in Reinforcement Learning
+1587,Phase Diagram and Storage Capacity of Sequence-Storing Neural Networks
+1588,Approximate Learning of Dynamic Models
+1589,Perceiving without Learning: From Spirals to Inside/Outside Relations
+159,Performance of a Stochastic Learning Microchip
+1590,Bayesian Modeling of Facial Similarity
+1591,Using Collective Intelligence to Route Internet Traffic
+1592,Unsupervised Classification with Non-Gaussian Mixture Models Using ICA
+1593,A Randomized Algorithm for Pairwise Clustering
+1594,Learning Nonlinear Dynamical Systems Using an EM Algorithm
+1596,Learning to Find Pictures of People
+1597,Restructuring Sparse High Dimensional Data for Effective Retrieval
+1598,Global Optimisation of Neural Network Models via Sequential Sampling
+1599,Optimizing Admission Control while Ensuring Quality of Service in Multimedia Networks via Reinforcement Learning
+16,Network Generality  Training Required  and Precision Required
+160,Analyzing the Energy Landscapes of Distributed Winner-Take-All Networks
+1600,Non-Linear PI Control Inspired by Biological Control Systems
+1601,The Role of Lateral Cortical Competition in Ocular Dominance Development
+1602,Boxlets: A Fast Convolution Algorithm for Signal Processing and Neural Networks
+1603,The Effect of Eligibility Traces on Finding Optimal Memoryless Policies in Partially Observable Markov Decision Processes
+1604,A Theory of Mean Field Approximation
+1605,Tight Bounds for the VC-Dimension of Piecewise Polynomial Networks
+1606,On-Line Learning with Restricted Training Sets: Exact Solution as Benchmark for General Theories
+1607,Improved Switching among Temporally Abstract Actions
+1608,Exploring Unknown Environments with Real-Time Search or Reinforcement Learning
+1609,Support Vector Machines Applied to Face Recognition
+161,Neural Approach for TV Image Compression Using a Hopfield Type Network
+1610,Linear Hinge Loss and Average Margin
+1611,Synergy and Redundancy among Brain Cells of Behaving Monkeys
+1612,Sparse Code Shrinkage: Denoising by Nonlinear Maximum Likelihood Estimation
+1613,An Integrated Vision Sensor for the Computation of Optical Flow Singular Points
+1614,Reinforcement Learning Based on On-Line EM Algorithm
+1615,Regularizing AdaBoost
+1616,Efficient Bayesian Parameter Estimation in Large Discrete Domains
+1617,Tractable Variational Structures for Approximating Graphical Models
+1618,A V1 Model of Pop Out and Asymmetty in Visual Search
+1619,Source Separation as a By-Product of Regularization
+162,Mapping Classifier Systems Into Neural Networks
+1620,Temporally Asymmetric Hebbian Learning  Spike liming and Neural Response Variability
+1621,Optimizing Correlation Algorithms for Hardware-Based Transient Classification
+1622,General Bounds on Bayes Errors for Regression with Gaussian Processes
+1623,Basis Selection for Wavelet Regression
+1624,Neural Networks for Density Estimation
+1625,Unsupervised and Supervised Clustering: The Mutual Information between Parameters and Observations
+1626,A Phase Space Approach to Minimax Entropy Learning and the Minutemax Approximations
+1627,A Polygonal Line Algorithm for Constructing Principal Curves
+1628,Utilizing lime: Asynchronous Binding
+1629,Learning to Estimate Scenes from Images
+163,Links Between Markov Models and Multilayer Perceptrons
+1630,Mechanisms of Generalization in Perceptual Learning
+1631,Learning a Hierarchical Belief Network of Independent Factor Analyzers
+1632,Convergence of the Wake-Sleep Algorithm
+1633,Signal Detection in Noisy Weakly-Active Dendrites
+1634,Maximum-Likelihood Continuity Mapping (MALCOM): An Alternative to HMMs
+1635,Spike-Based Compared to Rate-Based Hebbian Learning
+1636,Neural Computation with Winner-Take-All as the Only Nonlinear Operation
+1637,Bayesian Modelling of fMRI lime Series
+1638,An Oculo-Motor System with Multi-Chip Neuromorphic Analog VLSI Control
+1639,Algorithms for Independent Components Analysis and Higher Order Statistics
+164,Dynamic  Non-Local Role Bindings and Inferencing in a Localist Network for Natural Language Understanding
+1640,Approximate Inference A lgorithms for Two-Layer Bayesian Networks
+1641,Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology
+1642,Robust Learning of Chaotic Attractors
+1643,Gaussian Fields for Approximate Inference in Layered Sigmoid Belief Networks
+1644,Generalized Model Selection for Unsupervised Learning in High Dimensions
+1645,On Input Selection with Reversible Jump Markov Chain Monte Carlo Sampling
+1646,Memory Capacity of Linear vs. Nonlinear Models of Dendritic Integration
+1647,An Information-Theoretic Framework for Understanding Saccadic Eye Movements
+1648,Online Independent Component Analysis with Local Learning Rate Adaptation
+1649,Local Probability Propagation for Factor Analysis
+165,A Massively Parallel Self-Tuning Context-Free Parser
+1650,A MCMC Approach to Hierarchical Mixture Modelling
+1651,Agglomerative Information Bottleneck
+1652,Support Vector Method for Multivariate Density Estimation
+1653,Semiparametric Approach to Multichannel Blind Deconvolution of Nonminimum Phase Systems
+1654,Learning the Similarity of Documents: An Information-Geometric Approach to Document Retrieval and Categorization
+1655,Search for Information Bearing Components in Speech
+1656,Resonance in a Stochastic Neuron Model with Delayed Interaction
+1657,Information Capacity and Robustness of Stochastic Neuron Models
+1658,Spike-based Learning Rules and Stabilization of Persistent Neural Activity
+1659,Boosting with Multi-Way Branching in Decision Trees
+166,A Programmable Analog Neural Computer and Simulator
+1660,Reconstruction of Sequential Data with Probabilistic Models and Continuity Constraints
+1661,Inference for the Generalization Error
+1662,Application of Blind Separation of Sources to Optical Recording of Brain Activity
+1663,Model Selection for Support Vector Machines
+1664,Approximate Planning in Large POMDPs via Reusable Trajectories
+1665,An Environment Model for Nonstationary Reinforcement Learning
+1666,Rules and Similarity in Concept Learning
+1667,Reinforcement Learning Using Approximate Belief States
+1668,Learning Sparse Codes with a Mixture-of-Gaussians Prior
+1669,An Oscillatory Correlation Frame work for Computational Auditory Scene Analysis
+167,Neural Architecture
+1670,Emergence of Topography and Complex Cell Properties from Natural Images using Extensions of ICA
+1671,Training Data Selection for Optimal Generalization in Trigonometric Polynomial Networks
+1672,Variational Inference for Bayesian Mixtures of Factor Analysers
+1673,Mixture Density Estimation
+1674,Model Selection in Clustering by Uniform Convergence Bounds
+1675,Image Recognition in Context: Application to Microscopic Urinalysis
+1676,Recurrent Cortical Competition: Strengthen or Weaken?
+1677,The Entropy Regularization Information Criterion
+1678,Information Factorization in Connectionist Models of Perception
+1679,Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks
+168,Neural Control of Sensory Acquisition: The Vestibulo-Ocular Reflex
+1680,Broadband Direction-Of-Arrival Estimation Based on Second Order Statistics
+1681,Dual Estimation and the Unscented Transformation
+1682,Independent Factor Analysis with Temporally Structured Sources
+1683,Recognizing Evoked Potentials in a Virtual Environment
+1685,Bayesian Network Induction via Local Neighborhoods
+1686,Audio Vision: Using Audio-Visual Synchrony to Locate Sounds
+1687,A Geometric Interpretation of v-SVM Classifiers
+1688,Graded Grammaticality in Prediction Fractal Machines
+1689,Some Theoretical Results Concerning the Convergence of Compositions of Regularized Linear Functions
+169,An Analog VLSI Chip for Thin-Plate Surface Interpolation
+1690,Bifurcation Analysis of a Silicon Neuron
+1691,Greedy Importance Sampling
+1692,Lower Bounds on the Complexity of Approximating Continuous Functions by Sigmoidal Neural Networks
+1693,Dynamics of Supervised Learning with Restricted Training Sets and Noisy Teachers
+1694,Efficient Approaches to Gaussian Process Classification
+1695,A Generative Model for Attractor Dynamics
+1696,Robust Recognition of Noisy and Superimposed Patterns via Selective Attention
+1697,Statistical Dynamics of Batch Learning
+1698,Bayesian Reconstruction of 3D Human Motion from Single-Camera Video
+1699,Transductive Inference for Estimating Values of Functions
+17,Learning a Color Algorithm from Examples
+170,Song Learning in Birds
+1700,Regular and Irregular Gallager-zype Error-Correcting Codes
+1702,Differentiating Functions of the Jacobian with Respect to the Weights
+1703,Distributed Synchrony of Spiking Neurons in a Hebbian Cell Assembly
+1704,Constructing Heterogeneous Committees Using Input Feature Grouping: Application to Economic Forecasting
+1705,A Recurrent Model of the Interaction Between Prefrontal and Inferotemporal Cortex in Delay Tasks
+1706,From Coexpression to Coregulation: An Approach to Inferring Transcriptional Regulation among Gene Classes from Large-Scale Expression Data
+1707,An MEG Study of Response Latency and Variability in the Human Visual System During a Visual-Motor Integration Task
+1708,The Parallel Problems Server: an Interactive Tool for Large Scale Machine Learning
+1709,Bayesian Averaging is Well-Temperated
+171,Neuronal Maps for Sensory-Motor Control in the Barn Owl
+1710,Learning to Parse Images
+1711,Probabilistic Methods for Support Vector Machines
+1712,Bayesian Transduction
+1713,Policy Gradient Methods for Reinforcement Learning with Function Approximation
+1714,Unmixing Hyperspectral Data
+1715,Invariant Feature Extraction and Classification in Kernel Spaces
+1716,Bayesian Map Learning in Dynamic Environments
+1717,An Improved Decomposition Algorithm for Regression Support Vector Machines
+1718,A Multi-class Linear Learning Algorithm Related to Winnow
+1719,The Relevance Vector Machine
+172,A Low-Power CMOS Circuit Which Emulates Temporal Electrical Properties of Neurons
+1720,A Neuromorphic VLSI System for Modeling the Neural Control of Axial Locomotion
+1721,v-Arc: Ensemble Learning in the Presence of Outliers
+1722,Bayesian Model Selection for Support Vector Machines  Gaussian Processes and Other Kernel Classifiers
+1723,Support Vector Method for Novelty Detection
+1724,Spiking Boltzmann Machines
+1725,A Winner-Take-All Circuit with Controllable Soft Max Property
+1726,A Variational Baysian Framework for Graphical Models
+1727,The Relaxed Online Maximum Margin Algorithm
+1728,Wiring Optimization in the Brain
+1729,Topographic Transformation as a Discrete Latent Variable
+173,Using Backpropagation with Temporal Windows to Learn the Dynamics of the CMU Direct-Drive Arm II
+1730,Perceptual Organization Based on Temporal Dynamics
+1731,Spectral Cues in Human Sound Localization
+1732,Optimal Sizes of Dendritic and Axonal Arbors
+1733,Maximum Entropy Discrimination
+1734,Neural System Model of Human Sound Localization
+1735,Uniqueness of the SVM Solution
+1736,Nonlinear Discriminant Analysis Using Kernel Functions
+1737,Potential Boosters?
+1738,Constrained Hidden Markov Models
+1739,Algebraic Analysis for Non-regular Learning Machines
+174,Speech Recognition: Statistical and Neural Information Processing Approaches
+1740,Low Power Wireless Communication via Reinforcement Learning
+1741,Robust Full Bayesian Methods for Neural Networks
+1742,Managing Uncertainty in Cue Combination
+1743,The Nonnegative Boltzmann Machine
+1744,Kirchoff Law Markov Fields for Analog Circuit Design
+1745,The Infinite Gaussian Mixture Model
+1746,Can VI Mechanisms Account for Figure-Ground and Medial Axis Effects?
+1747,A SNoW-Based Face Detector
+1748,Policy Search via Density Estimation
+1749,Churn Reduction in the Wireless Industry
+175,Fast Learning in Multi-Resolution Hierarchies
+1750,Scale Mixtures of Gaussians and the Statistics of Natural Images
+1751,A Neurodynamical Approach to Visual Attention
+1752,Population Decoding Based on an Unfaithful Model
+1753,An Analysis of Turbo Decoding with Gaussian Densities
+1754,Learning Factored Representations for Partially Observable Markov Decision Processes
+1755,Optimal Kernel Shapes for Local Linear Regression
+1757,Manifold Stochastic Dynamics for Bayesian Learning
+1758,Channel Noise in Excitable Neural Membranes
+1759,Effects of Spatial and Temporal Contiguity on the Acquisition of Spatial Information
+1760,Neural Representation of Multi-Dimensional Stimuli
+1761,Learning from User Feedback in Image Retrieval Systems
+1762,Building Predictive Models from Fractal Representations of Symbolic Sequences
+1763,Coastal Navigation with Mobile Robots
+1764,Noisy Neural Networks and Generalizations
+1765,Learning Informative Statistics: A Nonparametnic Approach
+1766,Boosting Algorithms as Gradient Descent
+1767,Predictive App roaches for Choosing Hyperparameters in Gaussian Processes
+1768,Robust Neural Network Regression for Offline and Online Learning
+1769,Understanding Stepwise Generalization of Support Vector Machines: a Toy Model
+177,Neural Network Star Pattern Recognition for Spacecraft Attitude Determination and Control
+1770,State Abstraction in MAXQ Hierarchical Reinforcement Learning
+1771,Leveraged Vector Machines
+1772,Monte Carlo POMDPs
+1773,Large Margin DAGs for Multiclass Classification
+1774,Effective Learning Requires Neuronal Remodeling of Hebbian Synapses
+1775,Reinforcement Learning for Spoken Dialogue Systems
+1776,LTD Facilitates Learning in a Noisy Environment
+1777,Acquisition in Autoshaping
+1778,Better Generative Models for Sequential Data Problems: Bidirectional Recurrent Mixture Density Networks
+1779,Data Visualization and Feature Selection: New Algorithms for Nongaussian Data
+178,A Model for Resolution Enhancement (Hyperacuity) in Sensory Representation
+1780,Learning Statistically Neutral Tasks without Expert Guidance
+1781,An Analog VLSI Model of Periodicity Extraction
+1782,Evolving Learnable Languages
+1783,Predictive Sequence Learning in Recurrent Neocortical Circuits
+1784,Hierarchical Image Probability (H1P) Models
+1785,Image Representations for Facial Expression Coding
+1786,Actor-Critic Algorithms
+1787,Speech Modelling Using Subspace and EM Techniques
+1788,Neural Network Based Model Predictive Control
+1789,Improved Output Coding for Classification Using Continuous Relaxation
+179,Training a Limited-Interconnect  Synthetic Neural IC
+1790,Regularization with Dot-Product Kernels
+1791,Sparse Kernel Principal Component Analysis
+1792,Redundancy and Dimensionality Reduction in Sparse-Distributed Representations of Natural Objects in Terms of Their Local Features
+1793,Permitted and Forbidden Sets in Symmetric Threshold-Linear Networks
+1794,Minimum Bayes Error Feature Selection for Continuous Speech Recognition
+1795,Active Learning for Parameter Estimation in Bayesian Networks
+1796,The Early Word Catches the Weights
+1797,A Gradient-Based Boosting Algorithm for Regression Problems
+1798,Bayes Networks on Ice: Robotic Search for Antarctic Meteorites
+1799,Who Does What? A Novel Algorithm to Determine Function Localization
+18,Programmable Synaptic Chip for Electronic Neural Networks
+180,The Boltzmann Perceptron Network: A Multi-Layered Feed-Forward Network Equivalent to the Boltzmann Machine
+1800,Learning Continuous Distributions: Simulations With Field Theoretic Priors
+1801,Place Cells and Spatial Navigation Based on 2D Visual Feature Extraction  Path Integration  and Reinforcement Learning
+1802,The Kernel Gibbs Sampler
+1803,Error-correcting Codes on a Bethe-like Lattice
+1804,The Manhattan World Assumption: Regularities in Scene Statistics which Enable Bayesian Inference
+1805,On Iterative Krylov-Dogleg Trust-Region Steps for Solving Neural Networks Nonlinear Least Squares Problems
+1806,Ensemble Learning and Linear Response Theory for ICA
+1807,Recognizing Hand-written Digits Using Hierarchical Products of Experts
+1808,Efficient Learning of Linear Perceptrons
+1809,Multiple Timescales of Adaptation in a Neural Code
+181,Fixed Point Analysis for Recurrent Networks
+1810,Beyond Maximum Likelihood and Density Estimation: A Sample-Based Criterion for Unsupervised Learning of Complex Models
+1811,Exact Solutions to Time-Dependent MDPs
+1812,Bayesian Video Shot Segmentation
+1813,Finding the Key to a Synapse
+1814,Incremental and Decremental Support Vector Machine Learning
+1815,Sequentially Fitting ``Inclusive'' Trees for Inference in Noisy-OR Networks
+1816,Divisive and Subtractive Mask Effects: Linking Psychophysics and Biophysics
+1817,The Use of Classifiers in Sequential Inference
+1818,The Unscented Particle Filter
+1819,The Interplay of Symbolic and Subsymbolic Processes in Anagram Problem Solving
+182,GENESIS: A System for Simulating Neural Networks
+1820,Combining ICA and Top-Down Attention for Robust Speech Recognition
+1821,Automated State Abstraction for Options using the U-Tree Algorithm
+1822,A Linear Programming Approach to Novelty Detection
+1823,A Support Vector Method for Clustering
+1824,Four-legged Walking Gait Control Using a Neuromorphic Chip Interfaced to a Support Vector Learning Algorithm
+1825,Learning Curves for Gaussian Processes Regression: A Framework for Good Approximations
+1826,Algebraic Information Geometry for Learning Machines with Singularities
+1827,A Productive  Systematic Framework for the Representation of Visual Structure
+1828,Spike-Timing-Dependent Learning for Oscillatory Networks
+1829,Learning Winner-take-all Competition Between Groups of Neurons in Lateral Inhibitory Networks
+183,Further Explorations in Visually-Guided Reaching: Making MURPHY Smarter
+1830,Learning Segmentation by Random Walks
+1831,Balancing Multiple Sources of Reward in Reinforcement Learning
+1832,Generalized Belief Propagation
+1833,Regularized Winnow Methods
+1834,A New Model of Spatial Representation in Multimodal Brain Areas
+1835,Keeping Flexible Active Contours on Track using Metropolis Updates
+1836,Partially Observable SDE Models for Image Sequence Recognition Tasks
+1837,Hierarchical Memory-Based Reinforcement Learning
+1838,Feature Correspondence: A Markov Chain Monte Carlo Approach
+1839,A Neural Probabilistic Language Model
+184,"Does the Neuron ""Learn"" like the Synapse?"
+1840,APRICODD: Approximate Policy Construction Using Decision Diagrams
+1841,Robust Reinforcement Learning
+1842,Hippocampally-Dependent Consolidation in a Hierarchical Model of Neocortex
+1843,From Mixtures of Mixtures to Adaptive Transform Coding
+1844,A PAC-Bayesian Margin Bound for Linear Classifiers: Why SVMs work
+1845,Structure Learning in Human Causal Induction
+1846,The Missing Link - A Probabilistic Model of Document Content and Hypertext Connectivity
+1847,Stability and Noise in Biochemical Switches
+1848,`N-Body' Problems in Statistical Learning
+1849,Kernel-Based Reinforcement Learning in Average-Cost Problems: An Application to Optimal Portfolio Choice
+185,Consonant Recognition by Modular Construction of Large Phonemic Time-Delay Neural Networks
+1850,Feature Selection for SVMs
+1851,Dendritic Compartmentalization Could Underlie Competition and Attentional Biasing of Simultaneous Visual Stimuli
+1852,Explaining Away in Weight Space
+1853,Automatic Choice of Dimensionality for PCA
+1854,Algorithmic Stability and Generalization Performance
+1855,Fast Training of Support Vector Classifiers
+1856,Gaussianization
+1857,Tree-Based Modeling and Estimation of Gaussian Processes on Graphs with Cycles
+1858,Stagewise Processing in Error-correcting Codes and Image Restoration
+1859,Accumulator Networks: Suitors of Local Probability Propagation
+186,Neural Net Receivers in Multiple Access-Communications
+1860,Natural Sound Statistics and Divisive Normalization in the Auditory System
+1861,Algorithms for Non-negative Matrix Factorization
+1862,The Kernel Trick for Distances
+1863,An Information Maximization Approach to Overcomplete and Recurrent Representations
+1864,A New Approximate Maximal Margin Classification Algorithm
+1865,Model Complexity  Goodness of Fit and Diminishing Returns
+1866,Using the Nystr?m Method to Speed Up Kernel Machines
+1867,What Can a Single Neuron Compute?
+1868,Sparsity of Data Representation of Optimal Kernel Machine and Leave-one-out Estimator
+1869,Text Classification using String Kernels
+187,Programmable Analog Pulse-Firing Neural Networks
+1870,From Margin to Sparsity
+1871,Factored Semi-Tied Covariance Matrices
+1872,Dopamine Bonuses
+1873,On a Connection between Kernel PCA and Metric Multidimensional Scaling
+1874,Machine Learning for Video-Based Rendering
+1875,An Adaptive Metric Machine for Pattern Classification
+1876,Vicinal Risk Minimization
+1877,A Comparison of Image Processing Techniques for Visual Speech Recognition Applications
+1878,Learning Sparse Image Codes using a Wavelet Pyramid Architecture
+1879,On Reversing Jensen's Inequality
+188,Learning Sequential Structure in Simple Recurrent Networks
+1880,Sparse Greedy Gaussian Process Regression
+1881,Generalizable Singular Value Decomposition for Ill-posed Datasets
+1882,Temporally Dependent Plasticity: An Information Theoretic Account
+1883,Position Variance  Recurrence and Perceptual Learning
+1884,Whence Sparseness?
+1885,One Microphone Source Separation
+1886,Rate-coded Restricted Boltzmann Machines for Face Recognition
+1887,Support Vector Novelty Detection Applied to Jet Engine Vibration Spectra
+1888,Using Free Energies to Represent Q-values in a Multiagent Reinforcement Learning Task
+1889,Adaptive Object Representation with Hierarchically-Distributed Memory Sites
+189,A Self-Learning Neural Network
+1890,Second Order Approximations for Probability Models
+1891,Convergence of Large Margin Separable Linear Classification
+1892,Learning Switching Linear Models of Human Motion
+1893,Sparse Representation for Gaussian Process Models
+1894,Universality and Individuality in a Neural Code
+1895,Overfitting in Neural Nets: Backpropagation  Conjugate Gradient  and Early Stopping
+1896,Data Clustering by Markovian Relaxation and the Information Bottleneck Method
+1897,The Use of MDL to Select among Computational Models of Cognition
+1898,Learning Joint Statistical Models for Audio-Visual Fusion and Segregation
+1899,Some New Bounds on the Generalization Error of Combined Classifiers
+19,Optimization with Artificial Neural Network Systems: A Mapping Principle and a Comparison to Gradient Based Methods
+190,Contour-Map Encoding of Shape for Early Vision
+1900,Mixtures of Gaussian Processes
+1901,Interactive Parts Model: An Application to Recognition of On-line Cursive Script
+1902,Noise Suppression Based on Neurophysiologically-motivated SNR Estimation for Robust Speech Recognition
+1903,Processing of Time Series by Neural Circuits with Biologically Realistic Synaptic Dynamics
+1904,Competition and Arbors in Ocular Dominance
+1905,A Silicon Primitive for Competitive Learning
+1906,Weak Learners and Improved Rates of Convergence in Boosting
+1907,Propagation Algorithms for Variational Bayesian Learning
+1908,Speech Denoising and Dereverberation Using Probabilistic Models
+1909,Color Opponency Constitutes a Sparse Representation for the Chromatic Structure of Natural Scenes
+191,Neural Network Weight Matrix Synthesis Using Optimal Control Techniques
+1910,Foundations for a Circuit Complexity Theory of Sensory Processing
+1911,Reinforcement Learning with Function Approximation Converges to a Region
+1912,Smart Vision Chip Fabricated Using Three Dimensional Integration Technology
